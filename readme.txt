@@ -14,7 +14,7 @@ Makes your contact form page more engaging by creating a good-looking simple con
 Stay in touch with your visitors very easily. <a href="http://themeisle.com/plugins/pirate-forms/" rel="friend">Pirate Contact Forms</a> offers you a great and friendly contact form for your website. 
 This is an easy-to-use WordPress contact form with captcha plugin. To create a contact form you just need to use the [pirate_forms] shortcode or the 'Pirate Forms' widget.
 
-Features:
+**Why use Pirate Contact Form:**
 
 - It's easy to use
 
@@ -39,7 +39,9 @@ You can keep all the contacts in an archive by saving their e-mail addresses. Pi
 
 A simple to use contact form plugin for creating a clean contact form using the [pirate_forms] shortcode or the 'Pirate Forms' widget.
 
-Features:
+We've also built some fantastic <a href="http://themeisle.com/wordpress-themes/free/" rel="friend">free themes</a> that work well with Pirate Contact Form, check them out.
+
+**Features:**
 
 - Choosing the fields(required or not)
 - Choosing the labels
@@ -47,7 +49,14 @@ Features:
 - reCAPTCHA
 - Store the contacts in the database
 
-If are you looking for other alternatives check-out our article on <a href="http://www.codeinwp.com/blog/best-contact-form-plugins-wordpress/" rel="friend">best contact form plugins</a>, also if this doesn't work on your host, take a look at our <a href="http://www.codeinwp.com/blog/best-wordpress-shared-hosting-providers/" rel="friend">WordPress hosting study.
+If are you looking for other alternatives check-out our article on <a href="http://www.codeinwp.com/blog/best-contact-form-plugins-wordpress/" rel="friend">best contact form plugins</a>.
+
+
+**About us:**
+
+We are a young team of WordPress enthusiasts who enjoy developing <a href="http://themeisle.com/wordpress-plugins/" rel="friend">free WordPress plugins</a> and <a href="http://themeisle.com/wordpress-themes/" rel="friend">themes</a> for small <a href="http://themeisle.com/wordpress-themes/business/" rel="friend">businesses and startups</a>. 
+We also love to blog at CodeinWP and Themeisle about <a href="http://www.codeinwp.com/blog/best-wordpress-shared-hosting-providers/" rel="friend">wordpress hosting</a>, <a href="http://justfreethemes.com/" rel="friend">free themes</a>, <a href="http://www.codeinwp.com/blog/wix-vs-squarespace-vs-virb-vs-weebly-vs-wordpress-theme-builders/" rel="friend" website builders</a> and various other topics related to WordPress.
+
 
 This plugin is a fork of https://wordpress.org/plugins/proper-contact-form/.
 
